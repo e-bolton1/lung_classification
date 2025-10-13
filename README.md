@@ -1,3 +1,7 @@
+# Warm up Exercises
+
+[Slido](https://app.sli.do/event/xaJmSKrSbhRYP1FMuRBg86/live/polls)
+
 # Training Your Own AI Model
 
 **_See this tutorial on the website [here](https://omariosc.github.io/classifying-lung-disease/)._**
