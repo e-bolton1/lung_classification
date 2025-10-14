@@ -18,7 +18,7 @@ To get started, download this repository. You can do this by clicking on the gre
 
 ![Download Repo](tutorial/0.%20Download%20Repo.png)
 
-Once downloaded, **drag the folder 'lung_classification-main' from your downloads file to your documents**. You should see the following folder structure if you explore each folder:
+Once downloaded, **drag the folder `lung_classification-main` from your downloads file to your documents**. You should see the following folder structure if you explore each folder:
 
 ```sh
 |-- Exported Model
